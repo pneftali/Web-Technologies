@@ -6,3 +6,6 @@ Javascript Sliders
 
 // charting
 1. Morris.js - http://oesmith.github.com/morris.js/
+
+// presentation
+1. Impress.js - https://github.com/bartaz/impress.js/wiki/Examples-and-demos

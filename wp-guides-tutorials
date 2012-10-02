@@ -1,0 +1,75 @@
+1) Theme development - http://codex.wordpress.org/Theme_Development
+	
+	1 Why WordPress Themes
+	2 Theme Development Standards
+		2.1 Anatomy of a Theme
+		2.1.1 Child Themes
+		2.2 Theme Stylesheet
+		2.2.1 Stylesheet Guidelines
+		2.3 Functions File
+		2.4 Template Files
+			2.4.1 Template Files List
+			2.4.2 Basic Templates
+			2.4.3 Custom Page Templates
+			2.4.4 Query-based Template Files
+			2.4.5 Defining Custom Templates
+			2.4.6 Including Template Files
+			2.4.7 Referencing Files From a Template
+			2.4.8 Plugin API Hooks
+			2.4.9 Theme Customization API
+			2.4.10 Untrusted Data
+			2.4.11 Translation / i18n Support
+			2.4.12 Theme Classes
+		2.5 Template File Checklist
+			2.5.1 Document Head (header.php)
+			2.5.2 Navigation Menus (header.php)
+			2.5.3 Widgets (sidebar.php)
+			2.5.4 Footer (footer.php)
+			2.5.5 Index (index.php)
+			2.5.6 Archive (archive.php)
+			2.5.7 Pages (page.php)
+			2.5.8 Single Post (single.php)
+			2.5.9 Comments (comments.php)
+			2.5.10 Search Results (search.php)
+		2.6 JavaScript
+		2.7 Screenshot
+		2.8 Theme Options
+	3 Theme Testing Process
+
+2) Advance - Plugin development - http://codex.wordpress.org/Writing_a_Plugin
+
+	1 Introduction
+	2 Creating a Plugin
+		2.1 Names, Files, and Locations
+		2.1.1 Plugin Name
+		2.1.2 Plugin Files
+		2.1.3 Readme File
+		2.1.4 Home Page
+		2.2 File Headers
+		2.2.1 Standard Plugin Information
+		2.2.2 License
+		2.3 Programming Your Plugin
+		2.3.1 WordPress Plugin Hooks
+		2.3.2 Template Tags
+		2.3.3 Saving Plugin Data to the Database
+		2.3.4 WordPress Options Mechanism
+		2.3.5 Administration Panels
+		2.4 Internationalizing Your Plugin
+	3 Updating your Plugin
+	4 Plugin Development Suggestions
+
+3) Advance - Widget development - http://codex.wordpress.org/Widgets_API
+
+	1 Widgets API
+	2 Function Reference
+	3 Define Sidebars
+		3.1 Register Several Sidebars
+		3.2 Register Single Sidebar
+		3.3 Display Sidebar on Theme
+	4 Developing Widgets
+		4.1 Default Usage
+		4.2 Example
+		4.3 Example PHP 5.3
+
+
+		
